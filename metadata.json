@@ -1,0 +1,6 @@
+{
+  "name": "Bottle Flip Master",
+  "description": "A fun and addictive bottle flip game. Master the physics of the flip and aim for the perfect landing!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
