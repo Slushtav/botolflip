@@ -1,1 +1,1 @@
-semok semok botol flip ku semok
+botol flip yang dlip jadi botl
